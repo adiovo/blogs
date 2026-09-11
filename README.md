@@ -1,7 +1,7 @@
 ## Adi's Blogs
 
 ### 记录一下技术路上看到的，遇到的，做过的，或者无关技术的。
-> **以该仓库内的Issues作为Blog源，一个issue，一篇文章。所有的issue会同步到[我的博客](https://adiovo.cc)上，若issue closed，则文章会隐藏。**
+> **以该仓库内的Issues作为Blog源，一个issue，一篇文章。所有的issue会同步到[我的博客](https://adiovo.us.kg)上，若issue closed，则文章会隐藏。**
 
 
 ## Issue与Blog的数据结构关系
